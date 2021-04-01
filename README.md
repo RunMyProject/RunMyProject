@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RunMyProject
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Edoardo Sabatini.
+- 👀 I’m interested in all techs.
+- 🌱 I’m currently learning how to make a good CV!
+- 💞️ I’m looking to collaborate on enterprise projects for Banks and Multinationals.
+- 📫 How to reach me on Linkedin profile: https://www.linkedin.com/in/edoardo-sabatini/
 
 <!---
 RunMyProject/RunMyProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
