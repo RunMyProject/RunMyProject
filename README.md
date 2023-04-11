@@ -4,6 +4,7 @@
 - 🌱 I'm currently learning to gain skills in cutting-edge technologies and applying them to my projects.
 - 📫 You can contact me through Linkedin: [https://www.linkedin.com/in/edoardo-sabatini/](https://www.linkedin.com/in/edoardos/)
 - 🐬 You can also find some of my work on Github:
+
 - ## 2023 
 - #18. DevOps (Spring, Spring Security, JWT, Docker, MySQL, Java 8): [https://github.com/RunMyProject/dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023)
 - #17. Fullstack (Angular, DropWizard): [https://github.com/RunMyProject/Fullstack_2023](https://github.com/RunMyProject/Fullstack_2023)
