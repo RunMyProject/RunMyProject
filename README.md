@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Edoardo Sabatini 
 - 📊 I'm passionate about technology and always exploring new ways of leveraging it to create creative solutions. 
-- 💻 I have extensive experience in developing **Enterprise Applications** for **Banks, Multinationals and Governments.** 
+- 💻 **I have extensive experience in developing Enterprise Applications for Banks, Multinationals and Governments.** 
 - 🌱 I'm currently learning to gain skills in cutting-edge technologies and applying them to my projects.
 - 📫 You can contact me through Linkedin: [https://www.linkedin.com/in/edoardo-sabatini/](https://www.linkedin.com/in/edoardos/)
 - 🐬 You can also find some of my work on Github:
