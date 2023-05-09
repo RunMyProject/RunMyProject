@@ -5,7 +5,8 @@
 - 📫 You can contact me through Linkedin: [https://www.linkedin.com/in/edoardo-sabatini/](https://www.linkedin.com/in/edoardos/)
 - 🐬 You can also find some of my work on Github:
 
-- ## 2023 
+- ## 2023
+- #19. Kotlin-DevOps (Render Cloud Web Services, Docker, REST, Gradle, okhttp3, Jackson, Java 17): [https://github.com/RunMyProject/news-aggregator](https://github.com/RunMyProject/news-aggregator)
 - #18. DevOps (Spring, Spring Security, JWT, Docker, MySQL, Java 8): [https://github.com/RunMyProject/dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023)
 - #17. Fullstack (Angular, DropWizard): [https://github.com/RunMyProject/Fullstack_2023](https://github.com/RunMyProject/Fullstack_2023)
 - #16. Java Tech (batch, Java 7, Java 8 / 9): [https://github.com/RunMyProject/Java_Technical_Test_2023](https://github.com/RunMyProject/Java_Technical_Test_2023)
