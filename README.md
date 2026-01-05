@@ -1,10 +1,23 @@
-- 👋 Hi, I'm Edoardo Sabatini 
-- 📊 I'm passionate about technology and always exploring new ways of leveraging it to create creative solutions. 
-- 💻 **I have extensive experience in developing Enterprise Applications for Banks, Multinationals and Governments.** 
-- 🌱 I'm currently learning to gain skills in cutting-edge technologies and applying them to my projects.
-- 📫 You can contact me through Linkedin: [https://www.linkedin.com/in/edoardo-sabatini/](https://www.linkedin.com/in/edoardos/)
-- 🐬 You can also find some of my work on Github:
+- 👋 Hi, I’m **Edoardo Sabatini**
+- 🔭 **Current focus**: FractionLayer – a dark-themed, micro-services & React 19 demo for **security-token fractionalisation** (Go, AWS LocalStack, Hardhat, ZK/FHE)
+- 📊 **Enterprise track record**: banking, multinational and government systems – now sharpening **cloud-native, crypto-grade fintech** stacks
+- 🌱 **Learning in 2026**: Tailwind 4, Rolldown-Vite, React-Router v7, AWS KMS real-world flows, snarkjs, Lattigo-FHE
+- 💬 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/edoardofullstack/)
+- 
+- 🐬 **Latest repo** (Epiphany 2026 drop):
+  [![FractionLayer](https://img.shields.io/badge/⭐-FractionLayer-0d1117?logo=github)](https://github.com/RunMyProject/FractionLayer)  
 
+---
+
+### 2026 🚀
+- **FractionLayer** – React 19 + Go micro-services + AWS KMS/SQS + Hardhat + ZK/FHE playground  
+  [github.com/RunMyProject/FractionLayer](https://github.com/RunMyProject/FractionLayer)
+
+---
+
+### 2023 – 2019 heritage (click to open)  
+<details>
+<summary>Previous projects & stacks</summary>
 - ## 2023
 - #20. Node.js (REST, MongoDB, Mongoose): [https://github.com/RunMyProject/lake-cleaner-admin](https://github.com/RunMyProject/lake-cleaner-admin)
 - #19. Kotlin-DevOps (Render Cloud Web Services, Docker, REST, Gradle, okhttp3, Jackson, Java 17): [https://github.com/RunMyProject/news-aggregator](https://github.com/RunMyProject/news-aggregator)
@@ -30,7 +43,9 @@
 - ## 2019
 - #2. Angular: [https://github.com/RunMyProject/MyAngular](https://github.com/RunMyProject/MyAngular)
 - #1. Java 8: [https://github.com/RunMyProject/RunMyBranch](https://github.com/RunMyProject/RunMyBranch)
+</details>
 <!---
 RunMyProject/RunMyProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 You can click the Preview link to take a look at your changes.
 --->
