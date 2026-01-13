@@ -20,8 +20,10 @@
 <summary>Previous projects & stacks</summary>
 
 2024  
-&nbsp;&nbsp;#22 Python — [python-flask](https://github.com/devopsopportunity/python-flask-backend-api-testing)  
-&nbsp;&nbsp;#21 Node.js — [word-counter-web](https://github.com/devopsopportunity/word-counter-web)  
+
+&nbsp;&nbsp;#23 PHP — [php-tandc-generator](https://github.com/devopsopportunity/tandc-generator)  
+&nbsp;&nbsp;#22 Python — [python-flask-test](https://github.com/devopsopportunity/python-flask-backend-api-testing)  
+&nbsp;&nbsp;#21 Node.js — [node.js-word-counter-web](https://github.com/devopsopportunity/word-counter-web)  
 
 </details>
 
