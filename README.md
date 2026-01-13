@@ -15,11 +15,12 @@
 
 ---
 
-### 2023 – 2019 heritage (click to open)  
+### 2024 – 2025 heritage (click to open)
 <details>
 <summary>Previous projects & stacks</summary>
 
 2024
+&nbsp;&nbsp;#22 Python — [python-flask](https://github.com/devopsopportunity/python-flask-backend-api-testing)
 &nbsp;&nbsp;#21 Node.js — [word-counter-web](https://github.com/devopsopportunity/word-counter-web)
 
 </details>
