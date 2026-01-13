@@ -19,9 +19,9 @@
 <details>
 <summary>Previous projects & stacks</summary>
 
-2024
-&nbsp;&nbsp;#22 Python — [python-flask](https://github.com/devopsopportunity/python-flask-backend-api-testing)
-&nbsp;&nbsp;#21 Node.js — [word-counter-web](https://github.com/devopsopportunity/word-counter-web)
+2024  
+&nbsp;&nbsp;#22 Python — [python-flask](https://github.com/devopsopportunity/python-flask-backend-api-testing)  
+&nbsp;&nbsp;#21 Node.js — [word-counter-web](https://github.com/devopsopportunity/word-counter-web)  
 
 </details>
 
@@ -29,7 +29,7 @@
 <details>
 <summary>Previous projects & stacks</summary>
 
-2023  
+2023
 &nbsp;&nbsp;#20 Node.js (REST, MongoDB, Mongoose) — [lake-cleaner-admin](https://github.com/RunMyProject/lake-cleaner-admin)  
 &nbsp;&nbsp;#19 Kotlin-DevOps (Render, Docker, Gradle, Java 17) — [news-aggregator](https://github.com/RunMyProject/news-aggregator)  
 &nbsp;&nbsp;#18 DevOps (Spring, Spring-Security, JWT, Docker, MySQL) — [dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023)  
