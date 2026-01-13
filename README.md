@@ -19,6 +19,11 @@
 <details>
 <summary>Previous projects & stacks</summary>
 
+2025  
+&nbsp;&nbsp;#26 AI-Ollama-React.js-SpringBoot-AWS-Kafka-DockerCompose-DevOps — [AI-React.js-Spring-AWS-Kafka-Docker-DevOps](https://github.com/RunMyProject/FrankStack)  
+&nbsp;&nbsp;#25 Web Components — [scala-vercel-node.js-web-components](https://scala-plan-ai.vercel.app/)  
+  
+
 2024  
 &nbsp;&nbsp;#24 C# — [csharp-gameplay](https://github.com/devopsopportunity/JacobResilience)  
 &nbsp;&nbsp;#23 PHP — [php-tandc-generator](https://github.com/devopsopportunity/tandc-generator)  
