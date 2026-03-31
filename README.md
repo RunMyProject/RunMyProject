@@ -10,7 +10,7 @@
 ---
 
 ### 2026 🚀
-- **Quail Quarkus Qwen** – Quarkus + Svelte.js + llama.cpp + Qwen-2.5-1.5b
+- **Quail Quarkus Qwen** – Quarkus + Svelte.js + llama.cpp + Qwen-2.5-1.5b  
   [github.com/RunMyProject/qqq](https://github.com/RunMyProject/qqq)  
 - **FractionLayer** – React 19 + Go micro-services + AWS KMS/SQS + Hardhat + ZK/FHE playground  
   [github.com/RunMyProject/FractionLayer](https://github.com/RunMyProject/FractionLayer)
