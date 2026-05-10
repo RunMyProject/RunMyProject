@@ -10,6 +10,10 @@
 ---
 
 ### 2026 🚀
+- **Few Payments** – Java 25 + SpringBoot 4 + PostgreSQL + Blockchain / Geth + TestContainers + Docker Compose
+  [github.com/RunMyProject/few-payments](https://github.com/RunMyProject/few-payments)  
+- **DevOps** – DevOps Playground — CloudFormation · Ansible · Docker · Spring Boot
+  [github.com/RunMyProject/devops](https://github.com/RunMyProject/devops)  
 - **Quail Quarkus Qwen** – Quarkus + Svelte.js + llama.cpp + Qwen-2.5-1.5b  
   [github.com/RunMyProject/qqq](https://github.com/RunMyProject/qqq)  
 - **FractionLayer** – React 19 + Go micro-services + AWS KMS/SQS + Hardhat + ZK/FHE playground  
