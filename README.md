@@ -4,8 +4,8 @@
 - 🌱 **Learning in 2026**: Tailwind 4, Rolldown-Vite, React-Router v7, AWS KMS real-world flows, snarkjs, Lattigo-FHE
 - 💬 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/edoardofullstack/)
 - 
-- 🐬 **Latest repo** (Epiphany 2026 drop):
-  [![FractionLayer](https://img.shields.io/badge/⭐-FractionLayer-0d1117?logo=github)](https://github.com/RunMyProject/FractionLayer)  
+- 🐬 **Latest repo** (May 2026 drop):
+  [![Few Payments](https://img.shields.io/badge/⭐-FewPayments-0d1117?logo=github)](https://github.com/RunMyProject/few-payments)  
 
 ---
 
