@@ -1,12 +1,12 @@
 - 👋 Hi, I’m **Edoardo Sabatini**
-- 🔭 **Current focus**: FractionLayer – a dark-themed, micro-services & React 19 demo for **security-token fractionalisation** (Go, AWS LocalStack, Hardhat, ZK/FHE)
-- 📊 **Enterprise track record**: banking, multinational and government systems – now sharpening **cloud-native, crypto-grade fintech** stacks
-- 🌱 **Learning in 2026**: Tailwind 4, Rolldown-Vite, React-Router v7, AWS KMS real-world flows, snarkjs, Lattigo-FHE
+- 🔭 **Current focus**: Senior Architecture, enterprise cloud systems, and AI-driven platforms (**Fall-Insurance** back-office suite)
+- 📊 **Enterprise track record**: 17+ years designing and managing mission-critical systems for banking, insurance, and multinational enterprises
+- 🌱 **Learning in 2026**: Advanced cloud-native architectures, enterprise security, and AI orchestration frameworks
 - 💬 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/edoardofullstack/)
-- 
-- 🐬 **Latest repo** (May 2026 drop):
-  [![multi-field-time-aggregator](https://img.shields.io/badge/⭐-multi-field-time-aggregator-0d1117?logo=github)](https://github.com/RunMyProject/multi-field-time-aggregator)  
 
+- 🐬 **Latest repo** (May 2026 drop):
+  [multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
+  
 ---
 
 ### 2026 🚀
