@@ -4,12 +4,14 @@
 - 🌱 **Learning in 2026**: Advanced cloud-native architectures, enterprise security, and AI orchestration frameworks
 - 💬 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/edoardofullstack/)
 
-- 🐬 **Latest repo** (May 2026 drop):
-  [multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
-  
+- 🐬 **Latest repo** (September 2026 drop):
+  [fall-insurance](https://github.com/RunMyProject/fall-insurance)
+
 ---
 
 ### 2026 🚀
+- **fall-insurance** – Enterprise insurance back-office platform with AI-driven workflows and Scrum governance
+  [github.com/RunMyProject/fall-insurance](https://github.com/RunMyProject/fall-insurance)
 - **multi-field-time-aggregator** – Angular + Java 25 + SpringBoot 4 + PostgreSQL
   [github.com/RunMyProject/multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
 - **Few Payments** – Java 25 + SpringBoot 4 + PostgreSQL + Blockchain / Geth + TestContainers + Docker Compose
