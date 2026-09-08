@@ -10,7 +10,7 @@
 ---
 
 ### 2026 🚀
-- **fall-insurance** 🍂 – Enterprise insurance back-office platform with AI-driven workflows and Scrum governance
+- 🍂 **fall-insurance** – Enterprise insurance back-office platform with AI-driven workflows and Scrum governance
   [github.com/RunMyProject/fall-insurance](https://github.com/RunMyProject/fall-insurance)
 - **multi-field-time-aggregator** – Angular + Java 25 + SpringBoot 4 + PostgreSQL
   [github.com/RunMyProject/multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
