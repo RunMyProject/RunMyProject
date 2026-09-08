@@ -10,6 +10,8 @@
 ---
 
 ### 2026 🚀
+- **multi-field-time-aggregator** – Angular + Java 25 + SpringBoot 4 + PostgreSQL
+  [github.com/RunMyProject/multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
 - **Few Payments** – Java 25 + SpringBoot 4 + PostgreSQL + Blockchain / Geth + TestContainers + Docker Compose
   [github.com/RunMyProject/few-payments](https://github.com/RunMyProject/few-payments)  
 - **DevOps** – DevOps Playground — CloudFormation · Ansible · Docker · Spring Boot
