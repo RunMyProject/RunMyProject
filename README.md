@@ -85,7 +85,6 @@ Terminal game in C# inspired by the true story of Jacob the lion, who swam acros
 
 **2023**
 - [EnchantedRealmK8s](https://github.com/RunMyProject/EnchantedRealmK8s): Spring Boot + Kafka microservice on Kubernetes, with deployment, service, Docker registry secret and rollout scripts. *Java 11, Spring Kafka, Kubernetes*
-- [lake-cleaner-admin](https://github.com/RunMyProject/lake-cleaner-admin): admin panel for robot ducks that clean plastic from lakes. *Node.js, MongoDB, Mongoose*
 - [news-aggregator](https://github.com/RunMyProject/news-aggregator): REST service merging Hacker News and New York Times stories. *Kotlin, Java 17, Gradle, Docker, Render*
 - [dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023): REST service detecting file MIME types, with JWT authentication. *Spring Security, JWT, Docker, MySQL*
 - [Fullstack_2023](https://github.com/RunMyProject/Fullstack_2023): full-stack technical test. *Angular, Dropwizard*
