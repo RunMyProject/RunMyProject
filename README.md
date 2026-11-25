@@ -3,7 +3,7 @@
 **Senior Software Engineer · Java & Spring · Full stack · Event-driven and cloud-native systems**
 Milan area, Italy · 17 years in software delivery (2009 – 2026)
 
-💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/edoardofullstack/) · 🇮🇹 Italian · 🇬🇧 English
+💬 Let's connect on LinkedIn: [🇮🇹 Italiano](https://www.linkedin.com/in/edoardofullstack/?locale=it_IT) · [🇬🇧 English](https://www.linkedin.com/in/edoardofullstack/?locale=en_US)
 
 ---
 
