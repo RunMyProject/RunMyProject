@@ -1,84 +1,131 @@
-- 👋 Hi, I’m **Edoardo Sabatini**
-- 🔭 **Current focus**: Senior Architecture, enterprise cloud systems, and AI-driven platforms (**Fall-Insurance** back-office suite)
-- 📊 **Enterprise track record**: 17+ years designing and managing mission-critical systems for banking, insurance, and multinational enterprises
-- 🌱 **Learning in 2026**: Advanced cloud-native architectures, enterprise security, and AI orchestration frameworks
-- 💬 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/edoardofullstack/)
+# Hi, I'm Edoardo Sabatini 👋
 
-- 🐬 **Latest repo** (September 2026 drop):🍂
-  [fall-insurance](https://github.com/RunMyProject/fall-insurance)
+**Senior Software Engineer · Java & Spring · Full stack · Event-driven and cloud-native systems**
+Milan area, Italy · 17 years in software delivery (2009 – 2026)
+
+[LinkedIn](https://www.linkedin.com/in/edoardofullstack/) · [edoardo.fullstack@gmail.com](mailto:edoardo.fullstack@gmail.com) · 🇮🇹 Italian · 🇬🇧 English
 
 ---
 
-### 2026 🚀
-- 🍂 **fall-insurance** – Enterprise insurance back-office platform with AI-driven workflows and Scrum governance
-  [github.com/RunMyProject/fall-insurance](https://github.com/RunMyProject/fall-insurance)
-- **multi-field-time-aggregator** – Angular + Java 25 + SpringBoot 4 + PostgreSQL
-  [github.com/RunMyProject/multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator)
-- **Few Payments** – Java 25 + SpringBoot 4 + PostgreSQL + Blockchain / Geth + TestContainers + Docker Compose
-  [github.com/RunMyProject/few-payments](https://github.com/RunMyProject/few-payments)  
-- **DevOps** – DevOps Playground — CloudFormation · Ansible · Docker · Spring Boot
-  [github.com/RunMyProject/devops](https://github.com/RunMyProject/devops)  
-- **Quail Quarkus Qwen** – Quarkus + Svelte.js + llama.cpp + Qwen-2.5-1.5b  
-  [github.com/RunMyProject/qqq](https://github.com/RunMyProject/qqq)  
-- **FractionLayer** – React 19 + Go micro-services + AWS KMS/SQS + Hardhat + ZK/FHE playground  
-  [github.com/RunMyProject/FractionLayer](https://github.com/RunMyProject/FractionLayer)
+## About me
+
+Software engineer since 2009, working on enterprise systems in **banking, insurance, energy, telecom, media, payments and transport**, in Italy and abroad.
+
+My core is **Java and Spring** on the back end, with **Angular and React** on the front end. This profile collects my **personal projects**: about 35 public repositories from 2019 to today, each one with its date, its stack and the reason behind its main design choice. Client work is not published here.
 
 ---
 
-### 2024 – 2025 heritage (click to open)
+## Featured projects
+
+### 🍂 Fall-Insurance · *Sep 2026 · in progress*
+Insurance back-office platform. I started with security and infrastructure, because they are the foundation and the most expensive part to change later.
+- **Done:** Keycloak as OpenID Connect provider, Spring Boot API gateway as OAuth2 resource server validating JWTs, Next.js login and protected dashboard, all services on Docker Compose.
+- **Next:** policies, claims and AI-assisted workflows.
+- `Java 25` `Spring Boot 4` `Spring Security` `WebFlux` `Keycloak 26` `PostgreSQL` `Next.js 16` `React 19` `TypeScript`
+
+👉 [fall-insurance](https://github.com/RunMyProject/fall-insurance)
+
+### 🧳 FrankStack · *Aug – Nov 2025 · release candidate*
+Travel booking platform built from microservices and orchestrated by a local AI assistant. The user describes the trip in plain words, and the booking moves forward with real-time WebSocket updates.
+- Spring Cloud Gateway with Resilience4j circuit breakers and Prometheus metrics, plus an orchestrator for the booking flows.
+- **Event-driven by design:** Kafka for hotel bookings, AWS Lambda + SNS + SQS (on LocalStack) for card payments, and PDF receipts generated with iText and stored on S3.
+- Stripe payments and the AI chat channel in Node.js, with Gemma 2 running locally on Ollama (with NVIDIA GPU support).
+- 69 commits in about ten weeks, with dated release notes up to RC1.
+- `React` `Vite` `Node.js` `Spring Boot 3.5` `Java 21` `Kafka` `AWS (LocalStack)` `Stripe` `Ollama` `Docker Compose`
+
+👉 [FrankStack](https://github.com/RunMyProject/FrankStack) · 🎬 [Video demo](https://youtube.com/watch?v=spZ-lbxA4w0)
+A voice module is being prepared (speech synthesis with Chatterbox, transcription with Whisper): [chatterbox](https://github.com/RunMyProject/chatterbox)
+
+### 📅 ScalaPlan AI · *Dec 2024 – Apr 2025 · live MVP*
+Smart daily planner. The first version was built in Scala with Play Framework. I then moved to a lighter Node.js + vanilla JS version, so I could publish the MVP on Vercel and let anyone try it.
+- Tasks are scheduled automatically from 7:00 to 23:00 in 15-minute slots. Users can group them into workspaces with drag & drop and undo the history of completed tasks.
+- Three themes, Italian and English, sign-in with LinkedIn (OpenID Connect) and a guided tour with Shepherd.js.
+- 117 commits, with 50 development days logged one by one. The main source code is private and available on request.
+- `Scala` `Play Framework` `Node.js` `JavaScript` `CSS3` `Webpack` `Vercel`
+
+👉 [Live demo](https://scala-plan-ai.vercel.app) · [Showcase repo](https://github.com/RunMyProject/scala-plan-ai-demo)
+
+### 🦁 Jacob's Resilience · *Jul 2024 · hackathon*
+Terminal game in C# inspired by the true story of Jacob the lion, who swam across the Kazinga Channel in Uganda at night. It was built in the ten days of a hackathon.
+- Modular code (game models, controls, configuration, player state) and sound effects through `sox`.
+- It ships in two forms, a Docker container on Linux and a single executable for Windows, so it runs anywhere without setup.
+- `C# 12` `.NET 8` `Docker` `Bash`
+
+👉 [JacobResilience](https://github.com/RunMyProject/JacobResilience) · 🎬 [Gameplay video](https://youtu.be/cRSOrJi2yA4)
+
+---
+
+## 2026 labs and technical tests
+
+| When | Project | What it shows | Stack |
+|---|---|---|---|
+| May 2026 | [multi-field-time-aggregator](https://github.com/RunMyProject/multi-field-time-aggregator) | Versioned REST API (v1/v2) that aggregates worked hours by project, by employee or by both. Uses the Strategy pattern, so adding a new grouping does not change existing code. | Java 25, Spring Boot 4, Angular 21 (zoneless, signals), Vitest |
+| May 2026 | [few-payments](https://github.com/RunMyProject/few-payments) | Payment simulator on a private Geth chain with an ERC20 token. Every transfer is stored on chain and in PostgreSQL, and the balances are checked by tests. | Java 25, Spring Boot 4, Web3j, Solidity, PostgreSQL, TestContainers |
+| Apr 2026 | [devops](https://github.com/RunMyProject/devops) | The full release cycle run locally at no cost: CloudFormation stack on LocalStack, Ansible provisioning, Spring Boot container. | AWS CloudFormation, LocalStack, Ansible, Docker |
+| Mar 2026 | [qqq](https://github.com/RunMyProject/qqq) · *Quail Quarkus Qwen* | Game driven by an AI agent that runs fully offline. A GBNF grammar constrains the model so that it can only answer with valid moves. | Quarkus, LangChain4j, llama.cpp, Qwen 2.5, Svelte 5 |
+| Jan 2026 | [FractionLayer](https://github.com/RunMyProject/FractionLayer) | Prototype of a platform for real-world asset tokenization, with a React UI and a first Go service. The crypto layer is designed but not built yet. | React 19, Vite, Tailwind, Go (Fiber) |
+
+---
+
+## Earlier work, 2019 – 2025
+
 <details>
-<summary>Previous projects & stacks</summary>
+<summary><b>Show all projects by year</b></summary>
 
-2025  
-&nbsp;&nbsp;#26 AI-Ollama-React.js-SpringBoot-AWS-Kafka-DockerCompose-DevOps — [AI-React.js-Spring-AWS-Kafka-Docker-DevOps](https://github.com/RunMyProject/FrankStack)  
-&nbsp;&nbsp;#25 Web Components — [scala-vercel-node.js-web-components](https://scala-plan-ai.vercel.app/)  
-  
+**2025**
+- [chatterbox](https://github.com/RunMyProject/chatterbox): multilingual text-to-speech (Chatterbox by Resemble AI) and speech-to-text (Whisper) tests for the FrankStack voice module. *Python, PyTorch, CUDA*
 
-2024  
-&nbsp;&nbsp;#24 C# — [csharp-gameplay](https://github.com/devopsopportunity/JacobResilience)  
-&nbsp;&nbsp;#23 PHP — [php-tandc-generator](https://github.com/devopsopportunity/tandc-generator)  
-&nbsp;&nbsp;#22 Python — [python-flask-test](https://github.com/devopsopportunity/python-flask-backend-api-testing)  
-&nbsp;&nbsp;#21 Node.js — [node.js-word-counter-web](https://github.com/devopsopportunity/word-counter-web)  
+**2024**
+- [tandc-generator](https://github.com/RunMyProject/tandc-generator): generates Terms & Conditions documents from templates and data. *PHP*
+- [python-flask-backend-api-testing](https://github.com/RunMyProject/python-flask-backend-api-testing): back-end API with endpoint tests. *Python, Flask*
+- [word-counter-web](https://github.com/RunMyProject/word-counter-web): containerised word-count web server. *Node.js, Docker*
+- [python](https://github.com/RunMyProject/python): Python learning notes. *Python*
+
+**2023**
+- [EnchantedRealmK8s](https://github.com/RunMyProject/EnchantedRealmK8s): Spring Boot + Kafka microservice on Kubernetes, with deployment, service, Docker registry secret and rollout scripts. *Java 11, Spring Kafka, Kubernetes*
+- [lake-cleaner-admin](https://github.com/RunMyProject/lake-cleaner-admin): admin panel for robot ducks that clean plastic from lakes. *Node.js, MongoDB, Mongoose*
+- [news-aggregator](https://github.com/RunMyProject/news-aggregator): REST service merging Hacker News and New York Times stories. *Kotlin, Java 17, Gradle, Docker, Render*
+- [dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023): REST service detecting file MIME types, with JWT authentication. *Spring Security, JWT, Docker, MySQL*
+- [Fullstack_2023](https://github.com/RunMyProject/Fullstack_2023): full-stack technical test. *Angular, Dropwizard*
+- [Java_Technical_Test_2023](https://github.com/RunMyProject/Java_Technical_Test_2023): batch-processing technical test. *Java 7/8/9*
+- [RubyPerlJan2022](https://github.com/RunMyProject/RubyPerlJan2022): the same test solved in Ruby and in Perl. *Ruby, Perl*
+
+**2022**
+- [AngularWinter2022](https://github.com/RunMyProject/AngularWinter2022): home page with sign-up and login. *Angular 13, JWT*
+
+**2021**
+- [react-project](https://github.com/RunMyProject/react-project): hooks and child-to-parent callbacks. *React*
+- [OldFashionPound](https://github.com/RunMyProject/OldFashionPound): calculator for pounds, shillings and pence. *Java 8*
+- [MyVaccine.com.Flask](https://github.com/RunMyProject/MyVaccine.com.Flask): quick vaccination booking. *Python, Flask, SQLAlchemy, GraphQL*
+- [MyGoFlutter](https://github.com/RunMyProject/MyGoFlutter): Go back end with a Flutter Android client. *Go, Flutter, Dart*
+
+**2020**
+- [invinoveritas-node-redis-react](https://github.com/RunMyProject/invinoveritas-node-redis-react): full-stack app. *Node.js, Redis, React, Docker*
+- [goose](https://github.com/RunMyProject/goose): the Game of the Goose, with BDD tests. *Java 8, Cucumber*
+- [twitter-api](https://github.com/RunMyProject/twitter-api): Twitter-like social network API. *Spring Boot 2, HATEOAS, Swagger, H2*
+- [MyDotNet](https://github.com/RunMyProject/MyDotNet): .NET solutions for technical interviews. *ASP.NET, C#, Razor*
+- [task-tracking](https://github.com/RunMyProject/task-tracking): task tracker split into two Docker images. *Angular, .NET Core, Docker*
+- [twitter-stream](https://github.com/RunMyProject/twitter-stream): streaming tweet reader. *Java 8, Docker, OAuth2*
+- [api-test](https://github.com/RunMyProject/api-test): payment-order API services. *Spring, Java 8, Docker*
+
+**2019**
+- [MyAngular](https://github.com/RunMyProject/MyAngular): collection of Angular projects. *Angular*
+- [RunMyBranch](https://github.com/RunMyProject/RunMyBranch): Java demo for job interviews. *Java 8*
 
 </details>
 
-### 2023 – 2019 heritage (click to open)  
-<details>
-<summary>Previous projects & stacks</summary>
+---
 
-2023
-&nbsp;&nbsp;#20 Node.js (REST, MongoDB, Mongoose) — [lake-cleaner-admin](https://github.com/RunMyProject/lake-cleaner-admin)  
-&nbsp;&nbsp;#19 Kotlin-DevOps (Render, Docker, Gradle, Java 17) — [news-aggregator](https://github.com/RunMyProject/news-aggregator)  
-&nbsp;&nbsp;#18 DevOps (Spring, Spring-Security, JWT, Docker, MySQL) — [dev-ops-2023](https://github.com/RunMyProject/dev-ops-2023)  
-&nbsp;&nbsp;#17 Fullstack (Angular, DropWizard) — [Fullstack_2023](https://github.com/RunMyProject/Fullstack_2023)  
-&nbsp;&nbsp;#16 Java Tech (batch, Java 7/8/9) — [Java_Technical_Test_2023](https://github.com/RunMyProject/Java_Technical_Test_2023)  
+## Tech I work with
 
-2022  
-&nbsp;&nbsp;#15 Angular (Angular 13, JWT) — [AngularWinter2022](https://github.com/RunMyProject/AngularWinter2022)  
-&nbsp;&nbsp;#14 Ruby, Perl — [RubyPerlJan2022](https://github.com/RunMyProject/RubyPerlJan2022)  
+**Back end:** Java (8 → 25), Spring Boot, Spring Security, Spring Cloud Gateway, WebFlux, Quarkus, Node.js, Scala / Play, Go, C# / .NET, Kotlin
+**Front end:** Angular, React, Next.js, Svelte, TypeScript, JavaScript
+**Data & messaging:** PostgreSQL, Oracle, MySQL, MongoDB, Redis, Kafka, SNS / SQS
+**Cloud & DevOps:** Docker, Docker Compose, Kubernetes, AWS (Lambda, S3, CloudFormation via LocalStack), Ansible, Vercel, Prometheus
+**Security:** Keycloak, OAuth2 / OpenID Connect, JWT
+**AI:** local LLMs (Ollama, llama.cpp), LangChain4j, grammar-constrained decoding, speech-to-text and text-to-speech
+**Testing:** JUnit, TestContainers, Cucumber, Vitest
 
-2021  
-&nbsp;&nbsp;#13 React (hooks) — [react-project](https://github.com/RunMyProject/react-project)  
-&nbsp;&nbsp;#12 Java 8 — [OldFashionPound](https://github.com/RunMyProject/OldFashionPound)  
-&nbsp;&nbsp;#11 Python (Flask, SQLAlchemy, GraphQL) — [MyVaccine.com.Flask](https://github.com/RunMyProject/MyVaccine.com.Flask)  
-&nbsp;&nbsp;#10 Go, Flutter (REST, Android) — [MyGoFlutter](https://github.com/RunMyProject/MyGoFlutter)  
+---
 
-2020  
-&nbsp;&nbsp;#09 React Fullstack (Node, Redis, Docker) — [invinoveritas-node-redis-react](https://github.com/RunMyProject/invinoveritas-node-redis-react)  
-&nbsp;&nbsp;#08 Java 8 (Cucumber) — [goose](https://github.com/RunMyProject/goose)  
-&nbsp;&nbsp;#07 Spring (Twitter API, REST, HATEOAS) — [twitter-api](https://github.com/RunMyProject/twitter-api)  
-&nbsp;&nbsp;#06 ASP.NET (C#, Razor, Bootstrap) — [MyDotNet](https://github.com/RunMyProject/MyDotNet)  
-&nbsp;&nbsp;#05 DotNet Fullstack (Docker, Angular, C#) — [task-tracking](https://github.com/RunMyProject/task-tracking)  
-&nbsp;&nbsp;#04 Java 8 (Docker, OAuth2) — [twitter-stream](https://github.com/RunMyProject/twitter-stream)  
-&nbsp;&nbsp;#03 Spring (Java 8, Docker, REST) — [api-test](https://github.com/RunMyProject/api-test)  
-
-2019  
-&nbsp;&nbsp;#02 Angular — [MyAngular](https://github.com/RunMyProject/MyAngular)  
-&nbsp;&nbsp;#01 Java 8 — [RunMyBranch](https://github.com/RunMyProject/RunMyBranch)  
-
-</details>
-<!---
-RunMyProject/RunMyProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-You can click the Preview link to take a look at your changes.
---->
+<sub>Last updated: November 2026</sub>
