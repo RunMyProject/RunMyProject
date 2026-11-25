@@ -39,7 +39,9 @@ A voice module is being prepared (speech synthesis with Chatterbox, transcriptio
 ### 📅 ScalaPlan AI · *Dec 2024 – Apr 2025 · live MVP*
 Smart daily planner. The first version was built in Scala with Play Framework. I then moved to a lighter Node.js + vanilla JS version, so I could publish the MVP on Vercel and let anyone try it.
 - Tasks are scheduled automatically from 7:00 to 23:00 in 15-minute slots. Users can group them into workspaces with drag & drop and undo the history of completed tasks.
-- Three themes, Italian and English, sign-in with LinkedIn (OpenID Connect) and a guided tour with Shepherd.js.
+- Three themes, Italian and English, and single sign-on with LinkedIn (OpenID Connect).
+- **Interactive tutorial** built on Shepherd.js and run by two JavaScript agents. They create sample tasks, move them to the completed list and clean up their own data when the tour ends.
+- **Zero running cost:** no database. Data lives in the browser (localStorage), so the MVP stays online for free on Vercel. Tasks export to **YAML**, a format designed to be handed to an AI assistant that helps you manage them.
 - 117 commits, with 50 development days logged one by one. The main source code is private and available on request.
 - `Scala` `Play Framework` `Node.js` `JavaScript` `CSS3` `Webpack` `Vercel`
 
